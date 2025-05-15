@@ -1,13 +1,3 @@
-**Translation plan**
-
-The user requests a high-quality translation from Spanish to English using established techniques and international standards. The content includes code, headings, and images, so I need to preserve the markdown structure. I'll provide clear and thorough translation while keeping minimal fluff and avoiding emojis. I'll make sure to translate headings, bullet points, and paragraphs to ensure clarity. The approach should be straightforward and well-structured to meet the user's preferences. I'll now begin the translation.
-
-**Handling code in translation**
-
-I need to think about how to handle code versus explanatory text for translation. The user didn’t ask for changes to the code itself, but mentioning "translate correctly" makes me wonder if even code comments or labels should be translated. For labels like "Sistema trifásico ABC" or "Tiempo \[Segundos]," it makes sense to translate them but keep the code structure intact.  If the user wants everything translated, I’ll annotate the translation and leave clear the sections where code is untouched except for labels and comments.
-
-Thought for 20 seconds
-
 [![PyPI version](https://i.ibb.co/VVVC5z4/2022-01-10-00-20-11-2.jpg)](https://pypi.org/project/ClarkePark/)
 
 [![PyPI version](https://badge.fury.io/py/ClarkePark.svg)](https://badge.fury.io/py/ClarkePark)
